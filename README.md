@@ -144,5 +144,3 @@ void outputImage(const std::string& output_file, unsigned char* grey_image, int 
 
 ## Result:
 The CUDA program successfully converts the input image to grayscale using the GPU. The resulting grayscale image is saved as an output file. This example demonstrates the power of GPU parallelism in accelerating image processing tasks.
-# PCA-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
-Mini Project - Face Detection or Convert an image into gray scale image using CUDA GPU programming
